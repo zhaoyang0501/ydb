@@ -61,13 +61,15 @@ jQuery.adminUser = {
 					},{
 						"mDataProp" : "grade"
 					},{
+						"mDataProp" : "age"
+					},{
 						"mDataProp" : "createDate"
 					},{
 						"mDataProp" : ""
 					}],
 					"aoColumnDefs" : [
 						{
-							'aTargets' : [7],
+							'aTargets' : [8],
 							'fnRender' : function(oObj, sVal) {
 								return" <button class=\"btn2 btn-info\" onclick=\"$.adminUser.showEdit("+oObj.aData.id+")\"><i class=\"icon-edit\"></i> 修改</button>  <button class=\"btn2 btn-info\" onclick=\"$.adminUser.deleteUser("+oObj.aData.id+")\"><i class=\"icon-trash\"></i> 删除</button>";
 							}

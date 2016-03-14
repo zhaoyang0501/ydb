@@ -30,8 +30,14 @@ public class User implements Serializable {
 	private String tel;
 	private String level;
 	private String grade;
+    private Integer age;
 
-
+	public Integer getAge() {
+		return age;
+	}
+	public void setAge(Integer age) {
+		this.age = age;
+	}
 	public Long getId() {
 		return id;
 	}

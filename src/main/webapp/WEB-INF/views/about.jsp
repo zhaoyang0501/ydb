@@ -111,7 +111,7 @@
                 <h2 style="margin-top: 0px;">关于我们 <strong></strong></h2>
                 <div class="row" style="margin-top: 60px;">
                   <div>
-                  <p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 24px;"><span class="s1">关于家务帮</span></span><br><br><span style="font-size: 14px;"><span style="line-height: 1.6em;">我们不是小时工，杜绝磨洋工，按户型标准化收费。</span><br><span style="line-height: 1.6em;">我们是一家移动互联网创业公司，我们是一支拥有丰富的互联网行业经验的创业团队，将</span><span style="line-height: 25.6px;">重新定义家庭清洁与卫生新观念</span><span style="line-height: 1.6em;">。我们崇尚自由、不拘小节，我们关注用户、追求极致，我们充满激情、快速迭代，致力于为用户提供优质的用户体验。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">1、家务帮的特色服务</span></span><br><span style="line-height: 1.6em;">我们引进德国进口高温蒸汽杀菌、除尘除螨等高端专业设备。细心体贴的阿姨/技师将为您提供【日常保洁】、【深度保洁】、【除尘除螨】、【家电清洗】、【管道疏通】等高品质的省心到家服务。我们的预约时间为：早8：00-晚18：00。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">2、家务帮的平台优势</span></span><br><span style="line-height: 1.6em;">我们的平台优势在于已全面开通网站在线支付、微信在线支付、预约电话（4009-954-580）等全方位预约功能，强大的系统匹配阿姨能力，将为您找到细心体贴的阿姨，解决您的后顾之忧。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">3、家务帮的阿姨管理</span></span><br><span style="line-height: 1.6em;">我们的阿姨都经过非常严格的实名认证、背景调查、资料备案。面试环节层层筛选，保洁员10%择优录取。家务帮拥有强大的家政培训队伍，确保家政员的服务技能、服务态度、服务礼仪的高标准。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">4、家务帮的会员服务</span></span><br><span style="line-height: 1.6em;">加入家务帮会员，您还享受专属的家庭管家1对1服务，更有优先安排、更换阿姨、福利赠送等各种特权。</span><br><br><span style="color: rgb(165, 42, 42);"><span style="line-height: 1.6em;">5、家务帮的团队环境</span></span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 扁平的团队管理结构，谁都可以表达自己的看法；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 开放的产品讨论，人人都可以是产品经理；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 轻松愉快的工作环境，高效、健康的沟通协作方式。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">6、国家的政策扶持</span></span><br><span style="line-height: 1.6em;">我们积极响应李克强总理在政府工作报告中的号召，助力“互联网+”宏观战略。所谓O2O是“Online to Offline”和“Offline to Online”的缩写，强调的是线上和线下的融合与联动。</span></span></p><p class="p2" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><br><span class="s1"><span style="font-size: 22px;">关于我们&nbsp;</span></span><br>&nbsp;</p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服热线：4009-954-580</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">投诉电话：0791-83807986&nbsp; &nbsp; &nbsp; &nbsp;</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">微信服务号：jiawubang5</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服邮箱：kefu@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">市场合作：zhouxiaoping@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">商务合作：caimaodong@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">公司地址：江西省南昌市 红谷滩新区 沙井街道怡园路899号名门世家</span></span><br>&nbsp;</p><p><img alt="" src="http://www.jiawubang.me/Uploads/Editor/images/20150531204807367d8046.png" style="border: 0px; vertical-align: middle; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; width: 728px; height: 260px; background-color: rgb(255, 255, 255);"></p><p><br></p>
+                  <p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 24px;"><span class="s1">关于运动吧</span></span><br><br><span style="font-size: 14px;"><span style="line-height: 1.6em;">我们不是小时工，杜绝磨洋工，按户型标准化收费。</span><br><span style="line-height: 1.6em;">我们是一家移动互联网创业公司，我们是一支拥有丰富的互联网行业经验的创业团队，将</span><span style="line-height: 25.6px;">重新定义家庭清洁与卫生新观念</span><span style="line-height: 1.6em;">。我们崇尚自由、不拘小节，我们关注用户、追求极致，我们充满激情、快速迭代，致力于为用户提供优质的用户体验。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">1、运动吧的特色服务</span></span><br><span style="line-height: 1.6em;">我们引进德国进口高温蒸汽杀菌、除尘除螨等高端专业设备。细心体贴的阿姨/技师将为您提供【日常保洁】、【深度保洁】、【除尘除螨】、【家电清洗】、【管道疏通】等高品质的省心到家服务。我们的预约时间为：早8：00-晚18：00。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">2、运动吧的平台优势</span></span><br><span style="line-height: 1.6em;">我们的平台优势在于已全面开通网站在线支付、微信在线支付、预约电话（4009-954-580）等全方位预约功能，强大的系统匹配阿姨能力，将为您找到细心体贴的阿姨，解决您的后顾之忧。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">3、运动吧的阿姨管理</span></span><br><span style="line-height: 1.6em;">我们的阿姨都经过非常严格的实名认证、背景调查、资料备案。面试环节层层筛选，保洁员10%择优录取。运动吧拥有强大的家政培训队伍，确保家政员的服务技能、服务态度、服务礼仪的高标准。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">4、运动吧的会员服务</span></span><br><span style="line-height: 1.6em;">加入运动吧会员，您还享受专属的家庭管家1对1服务，更有优先安排、更换阿姨、福利赠送等各种特权。</span><br><br><span style="color: rgb(165, 42, 42);"><span style="line-height: 1.6em;">5、运动吧的团队环境</span></span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 扁平的团队管理结构，谁都可以表达自己的看法；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 开放的产品讨论，人人都可以是产品经理；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 轻松愉快的工作环境，高效、健康的沟通协作方式。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">6、国家的政策扶持</span></span><br><span style="line-height: 1.6em;">我们积极响应李克强总理在政府工作报告中的号召，助力“互联网+”宏观战略。所谓O2O是“Online to Offline”和“Offline to Online”的缩写，强调的是线上和线下的融合与联动。</span></span></p><p class="p2" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><br><span class="s1"><span style="font-size: 22px;">关于我们&nbsp;</span></span><br>&nbsp;</p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服热线：4009-954-580</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">投诉电话：0791-83807986&nbsp; &nbsp; &nbsp; &nbsp;</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">微信服务号：jiawubang5</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服邮箱：kefu@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">市场合作：zhouxiaoping@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">商务合作：caimaodong@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">公司地址：江西省南昌市 红谷滩新区 沙井街道怡园路899号名门世家</span></span><br>&nbsp;</p><p><img alt="" src="http://www.jiawubang.me/Uploads/Editor/images/20150531204807367d8046.png" style="border: 0px; vertical-align: middle; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; width: 728px; height: 260px; background-color: rgb(255, 255, 255);"></p><p><br></p>
                   </div>
                 </div>
               </div>
@@ -125,64 +125,64 @@
                 <div id="tab3" class="contentTab active" data-id="3">
 							<div class="articleDetail">
 <br>
-<span style="font-size:14px;">欢迎访问家务帮网站www.jiawubang.me及相应的手机应用软件（下称“家务帮”或“我们”）以使用我们提供的产品及服务。家务帮的服务由江西家务帮信息科技有限公司基于以下服务条款及使用条件而提供。请仔细阅读。我们向您（或称“用户”）提供的服务可能还需要您遵守其他条款及服务准则（包括服务说明及使用帮助等），您应同时予以一并接受。<br>
+<span style="font-size:14px;">欢迎访问运动吧网站www.jiawubang.me及相应的手机应用软件（下称“运动吧”或“我们”）以使用我们提供的产品及服务。运动吧的服务由江西运动吧信息科技有限公司基于以下服务条款及使用条件而提供。请仔细阅读。我们向您（或称“用户”）提供的服务可能还需要您遵守其他条款及服务准则（包括服务说明及使用帮助等），您应同时予以一并接受。<br>
 <br>
-1.家务帮帐户<br>
-为了使用我们提供的服务，您需要注册一个家务帮帐户，帐户名即为您所提供的常用手机号码。通过家务帮下发的验证码进行帐户验证后，该帐户即可以使用。您可以在帐户中查询到您的订单记录，包括为您提供服务的保洁员信息及所提供服务的具体地点记录。 如果您使用家务帮服务，您应负责维护您的帐户的保密性并限制第三方使用/访问您的计算机或移动设备，并且，您同意对在您的帐户和密码下发生的所有活动承担责任。如果您未满18周岁，您只能在父母或监护人的参与下使用服务。我们保留自行决定终止提供服务、关闭帐户、删除或编辑内容或取消订单的权利。<br>
+1.运动吧帐户<br>
+为了使用我们提供的服务，您需要注册一个运动吧帐户，帐户名即为您所提供的常用手机号码。通过运动吧下发的验证码进行帐户验证后，该帐户即可以使用。您可以在帐户中查询到您的订单记录，包括为您提供服务的保洁员信息及所提供服务的具体地点记录。 如果您使用运动吧服务，您应负责维护您的帐户的保密性并限制第三方使用/访问您的计算机或移动设备，并且，您同意对在您的帐户和密码下发生的所有活动承担责任。如果您未满18周岁，您只能在父母或监护人的参与下使用服务。我们保留自行决定终止提供服务、关闭帐户、删除或编辑内容或取消订单的权利。<br>
 <br>
-2.家务帮服务<br>
-用户应了解并知悉，家务帮是为保洁员及用户提供保洁服务信息发布及访寻的居间服务平台。用户与保洁员通过阿姨帮的居间服务，在双方之间达成独立的保洁服务协议，并承担相应的权利和义务。如因保洁员原因导致用户遭受相关财产及人身损害的，用户应直接向保洁员追偿，家务帮免于承担因保洁员与用户之间保洁服务协议履行所致任何纠纷的赔偿责任。<br>
+2.运动吧服务<br>
+用户应了解并知悉，运动吧是为保洁员及用户提供保洁服务信息发布及访寻的居间服务平台。用户与保洁员通过阿姨帮的居间服务，在双方之间达成独立的保洁服务协议，并承担相应的权利和义务。如因保洁员原因导致用户遭受相关财产及人身损害的，用户应直接向保洁员追偿，运动吧免于承担因保洁员与用户之间保洁服务协议履行所致任何纠纷的赔偿责任。<br>
 <br>
 3.服务开始和提供<br>
-本条款所述“服务订单”，是指家务帮接受用户委托，承诺按照用户具体需求访寻相应提供具体服务的保洁员与用户达成保洁服务协议的委托服务合同。<br>
-3.1 用户与家务帮的服务订单在下述时刻正式成立：<br>
-1)用户通过家务帮联系到能够提供服务的保洁员并商定所需保洁服务的时间、地点等服务信息之时；<br>
-2)用户通过家务帮客服要求家务帮在具体时间和地点指派符合其要求的保洁员提供服务之时。<br>
-3.2家务帮将根据服务订单信息访寻到可以提供服务的保洁员，并促成保洁员与用户之间按照用户在服务订单中的具体需求达成服务合同。保洁员与用户之间达成服务合同后，家务帮与用户之间的服务协议终止。<br>
+本条款所述“服务订单”，是指运动吧接受用户委托，承诺按照用户具体需求访寻相应提供具体服务的保洁员与用户达成保洁服务协议的委托服务合同。<br>
+3.1 用户与运动吧的服务订单在下述时刻正式成立：<br>
+1)用户通过运动吧联系到能够提供服务的保洁员并商定所需保洁服务的时间、地点等服务信息之时；<br>
+2)用户通过运动吧客服要求运动吧在具体时间和地点指派符合其要求的保洁员提供服务之时。<br>
+3.2运动吧将根据服务订单信息访寻到可以提供服务的保洁员，并促成保洁员与用户之间按照用户在服务订单中的具体需求达成服务合同。保洁员与用户之间达成服务合同后，运动吧与用户之间的服务协议终止。<br>
 3.3如服务订单无法履行（例如无法访寻到适合用户需求的保洁员的），我们将尽快与您联系并在获得您的许可后取消服务订单。<br>
-3.4保洁员履行完毕其与用户达成的服务合同后，用户应当按照双方之间达成的保洁服务协议向保洁员支付服务价款。用户可作出相应的评价， 以供家务帮进一步改进服务。<br>
+3.4保洁员履行完毕其与用户达成的服务合同后，用户应当按照双方之间达成的保洁服务协议向保洁员支付服务价款。用户可作出相应的评价， 以供运动吧进一步改进服务。<br>
 <br>
 4.信息发布<br>
-4.1家务帮会将保洁员信息（包括但不限于姓名、年龄、籍贯和服务报价等）公布于家务帮服务平台。我们努力使该等保洁员信息尽可能地真实和准确，但是，我们无法就其内容的准确性、完整性、可靠性作出保证。如果您认为上述信息与保洁员的真实信息不一致，且您无法接受该不一致的，您唯一可以选择的救济方式为解除与保洁员之间的服务合同，并通过客户或服务评价体系通知我们，我们将即刻更新所发布的信息，并依照对保洁员的管理政策对保洁员作出相应处理。<br>
-4.2用户可以在家务帮服务平台张贴评论、意见和其他内容，以及提出建议、意见或其他信息，唯其前提是该等内容须不违反中国现行法律法规及其他规范性文件的要求，不含有非法、淫秽、威胁、诽谤、侵犯隐私、侵犯知识产权或以其他形式对第三方权利构成侵犯。家务帮保留清除或编辑这些内容的权利（但非义务），但不对用户所张贴的内容进行经常性的审查。用户声明和保证对于因其所提供内容引起的对家务帮的损害进行赔偿。<br>
-4.3如果用户在家务帮张贴内容或提交材料，除非我们另行说明，用户同意授予家务帮非独有的、免费的、永久的、不可撤销的和完全的再许可权的下述许可：在全世界范围内任何媒体上使用、转载、修改、改编、出版、翻译、创作衍生作品、分发和展示这些内容。<br>
+4.1运动吧会将保洁员信息（包括但不限于姓名、年龄、籍贯和服务报价等）公布于运动吧服务平台。我们努力使该等保洁员信息尽可能地真实和准确，但是，我们无法就其内容的准确性、完整性、可靠性作出保证。如果您认为上述信息与保洁员的真实信息不一致，且您无法接受该不一致的，您唯一可以选择的救济方式为解除与保洁员之间的服务合同，并通过客户或服务评价体系通知我们，我们将即刻更新所发布的信息，并依照对保洁员的管理政策对保洁员作出相应处理。<br>
+4.2用户可以在运动吧服务平台张贴评论、意见和其他内容，以及提出建议、意见或其他信息，唯其前提是该等内容须不违反中国现行法律法规及其他规范性文件的要求，不含有非法、淫秽、威胁、诽谤、侵犯隐私、侵犯知识产权或以其他形式对第三方权利构成侵犯。运动吧保留清除或编辑这些内容的权利（但非义务），但不对用户所张贴的内容进行经常性的审查。用户声明和保证对于因其所提供内容引起的对运动吧的损害进行赔偿。<br>
+4.3如果用户在运动吧张贴内容或提交材料，除非我们另行说明，用户同意授予运动吧非独有的、免费的、永久的、不可撤销的和完全的再许可权的下述许可：在全世界范围内任何媒体上使用、转载、修改、改编、出版、翻译、创作衍生作品、分发和展示这些内容。<br>
 <br>
 5.隐私<br>
-家务帮可能会要求用户提供其手机号码及位置信息等个人信息，以便实现向用户推荐更适合其地理范围需求的保洁员等重要功能。家务帮会尽最大努力对前述用户个人信息进行妥善保管，除征得用户明确同意和法律明确规定外，家务帮不会向任何第三方提供用户前述信息。<br>
+运动吧可能会要求用户提供其手机号码及位置信息等个人信息，以便实现向用户推荐更适合其地理范围需求的保洁员等重要功能。运动吧会尽最大努力对前述用户个人信息进行妥善保管，除征得用户明确同意和法律明确规定外，运动吧不会向任何第三方提供用户前述信息。<br>
 <br>
 6.软件使用条款<br>
-您需要下载家务帮提供的手机软件并安装后方得以从手机客户端使用家务帮所提供的服务。家务帮在此授予您免费的、不可转让的、非独占的全球性个人许可，允许您使用由家务帮提供的、包含在服务中的软件。但是，您不得复制、修改、发布、出售或出租我们的服务或所含软件的任何部分，也不得进行反向工程或试图提取该软件的源代码，除非法律禁止上述限制或您已获得家务帮的书面许可。<br>
+您需要下载运动吧提供的手机软件并安装后方得以从手机客户端使用运动吧所提供的服务。运动吧在此授予您免费的、不可转让的、非独占的全球性个人许可，允许您使用由运动吧提供的、包含在服务中的软件。但是，您不得复制、修改、发布、出售或出租我们的服务或所含软件的任何部分，也不得进行反向工程或试图提取该软件的源代码，除非法律禁止上述限制或您已获得运动吧的书面许可。<br>
 <br>
 7.版权<br>
-家务帮服务所包含或提供的所有内容诸如文字、图表、标识、按钮图标、图像、声音文件片段、数字下载、数据编辑和软件都是家务帮或其内容提供者的财产，受中国和国际版权法的保护。家务帮上所提供使用的所有软件都是家务帮或其软件供应商的财产，受中国和国际版权法的保 护。<br>
-同时，家务帮尊重他人的知识产权。如果您认为相应信息对您的作品的使用已经构成版权侵犯，请通过[kefu@jiawubang.me]或公布于家务帮的客服电话及时通知我们，我们将按照现行法律法规的规定的版权侵权投诉程序予以处理。同时，您同意补偿家务帮因您所提交的通知而可能产生的第三方对于阿姨帮的索赔要求。<br>
+运动吧服务所包含或提供的所有内容诸如文字、图表、标识、按钮图标、图像、声音文件片段、数字下载、数据编辑和软件都是运动吧或其内容提供者的财产，受中国和国际版权法的保护。运动吧上所提供使用的所有软件都是运动吧或其软件供应商的财产，受中国和国际版权法的保 护。<br>
+同时，运动吧尊重他人的知识产权。如果您认为相应信息对您的作品的使用已经构成版权侵犯，请通过[kefu@jiawubang.me]或公布于运动吧的客服电话及时通知我们，我们将按照现行法律法规的规定的版权侵权投诉程序予以处理。同时，您同意补偿运动吧因您所提交的通知而可能产生的第三方对于阿姨帮的索赔要求。<br>
 <br>
 8.商标权利<br>
-本网站服务所包含或者提供的图表、标识、网页页眉、按钮图标、文字、服务品名均为家务帮的商标、注册商标或商业外观。这些商标或商业 外观不得以任何可能引起消费者混淆的方式或任何诋毁或诽谤家务帮的方式用于与本网站或其关联公司无关联的任何商品或服务上。未经家务帮的书面许可，本网站上的任何内容都不应被解释为以默许或其他方式授予许可或使用本网站上出现的商标的权利。<br>
+本网站服务所包含或者提供的图表、标识、网页页眉、按钮图标、文字、服务品名均为运动吧的商标、注册商标或商业外观。这些商标或商业 外观不得以任何可能引起消费者混淆的方式或任何诋毁或诽谤运动吧的方式用于与本网站或其关联公司无关联的任何商品或服务上。未经运动吧的书面许可，本网站上的任何内容都不应被解释为以默许或其他方式授予许可或使用本网站上出现的商标的权利。<br>
 <br>
 9.服务的修改和终止<br>
-家务帮始终在不断更改和改进其所提供的服务。家务帮可能会增加或删除某项服务功能，也可能暂停或彻底停止某项服务。用户可以随时停止使用家务帮的服务，家务帮也可能随时停止向用户提供服务，或随时对家务帮的服务增加或设置新的限制。但是，如果家务帮停止某项服务， 则在可能的情况下，家务帮会向用户发出合理的提前通知，并让用户有机会备份和转移其留存在家务帮中的信息。<br>
-如用户违反其在本服务条款及使用条件中的行为规范的，家务帮有权随时终止向用户提供所述服务。<br>
-家务帮仅就本服务条款及使用条件所述服务向用户承担责任，且所承担的赔偿责任应以具体赔偿事项所涉的用户与保洁员达成的具体保洁服务 协议之服务价款的三倍为限。家务帮免于承担因保洁员与用户之间保洁服务协议履行所致任何纠纷的赔偿责任。<br>
+运动吧始终在不断更改和改进其所提供的服务。运动吧可能会增加或删除某项服务功能，也可能暂停或彻底停止某项服务。用户可以随时停止使用运动吧的服务，运动吧也可能随时停止向用户提供服务，或随时对运动吧的服务增加或设置新的限制。但是，如果运动吧停止某项服务， 则在可能的情况下，运动吧会向用户发出合理的提前通知，并让用户有机会备份和转移其留存在运动吧中的信息。<br>
+如用户违反其在本服务条款及使用条件中的行为规范的，运动吧有权随时终止向用户提供所述服务。<br>
+运动吧仅就本服务条款及使用条件所述服务向用户承担责任，且所承担的赔偿责任应以具体赔偿事项所涉的用户与保洁员达成的具体保洁服务 协议之服务价款的三倍为限。运动吧免于承担因保洁员与用户之间保洁服务协议履行所致任何纠纷的赔偿责任。<br>
 <br>
 10.有限责任<br>
-家务帮负责按"现状"和"可得到"的状态向您提供服务。但家务帮服务不作任何明示或暗示的保证，包括但不限于家务帮服务的适用性、没有错 误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，家务帮也不对其服务所涉及的技术及信息的有效性、准确性、正确性、可 靠性、质量、稳定、完整和及时性作出任何承诺和保证。<br>
-家务帮对由于政府行为譬如政策或法规的变更、自然灾害或战争、通讯线路中断、黑客攻击、计算机病毒侵入或发作、电信部门技术调整、因政府管制而造成网站的暂时性关闭等任何影响网络正常运营的不可抗力事件，以及他人蓄意破坏、正常的系统维护、系统升级，或者因网络拥塞而导致本网站不能访问而造成的本网站所提供的信息及数据的延误、停滞或错误，以及使用者由此受到的一切损失不承担任何责任。<br>
-家务帮不对用户所发布信息的保存、修改、删除或储存失败负责。对网站上的非因家务帮故意所导致的排字错误、疏忽等不承担责任。<br>
-家务帮有权但无义务，改善或更正本网站任何部分之疏漏、错误。<br>
+运动吧负责按"现状"和"可得到"的状态向您提供服务。但运动吧服务不作任何明示或暗示的保证，包括但不限于运动吧服务的适用性、没有错 误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，运动吧也不对其服务所涉及的技术及信息的有效性、准确性、正确性、可 靠性、质量、稳定、完整和及时性作出任何承诺和保证。<br>
+运动吧对由于政府行为譬如政策或法规的变更、自然灾害或战争、通讯线路中断、黑客攻击、计算机病毒侵入或发作、电信部门技术调整、因政府管制而造成网站的暂时性关闭等任何影响网络正常运营的不可抗力事件，以及他人蓄意破坏、正常的系统维护、系统升级，或者因网络拥塞而导致本网站不能访问而造成的本网站所提供的信息及数据的延误、停滞或错误，以及使用者由此受到的一切损失不承担任何责任。<br>
+运动吧不对用户所发布信息的保存、修改、删除或储存失败负责。对网站上的非因运动吧故意所导致的排字错误、疏忽等不承担责任。<br>
+运动吧有权但无义务，改善或更正本网站任何部分之疏漏、错误。<br>
 <br>
 11.适用法律<br>
-您同意本服务条款和使用条件以及您和家务帮之间发生的任何争议均适用中华人民共和国法律。<br>
+您同意本服务条款和使用条件以及您和运动吧之间发生的任何争议均适用中华人民共和国法律。<br>
 <br>
 12.争议<br>
-有关与您和家务帮之间发生的任何形式的争议均应友好协商解决，协商不成的，任一方有权将争议提交江西省南昌市红谷滩人民法院法院诉讼解决。<br>
+有关与您和运动吧之间发生的任何形式的争议均应友好协商解决，协商不成的，任一方有权将争议提交江西省南昌市红谷滩人民法院法院诉讼解决。<br>
 <br>
 13.条款修改和可分性<br>
-为更好地提供服务并符合相关监管政策，我们可以随时修改上述条款。请您定期查阅本条款。我们会在网页上公布这些条款的修改通知，并列 明最近的修改日期。如您不同意我们对相应条款作出的修改，您应立即停止使用家务帮所提供的服务。如果本条款中任何一条被视为废止、无 效或因任何理由不可执行，该使用条件应视为可分割的且不影响任何其余条款的有效性和可执行性。<br>
+为更好地提供服务并符合相关监管政策，我们可以随时修改上述条款。请您定期查阅本条款。我们会在网页上公布这些条款的修改通知，并列 明最近的修改日期。如您不同意我们对相应条款作出的修改，您应立即停止使用运动吧所提供的服务。如果本条款中任何一条被视为废止、无 效或因任何理由不可执行，该使用条件应视为可分割的且不影响任何其余条款的有效性和可执行性。<br>
 <br>
 14.通讯<br>
-家务帮将通过电子邮件、短信、在本网站上发布通知或其它服务与用户进行联系。您同意我们用这些方式提供给您的所有协议、通知、披露和其他信息是符合相关的法律法规要求的。如果我们以该等形式向您发出信息或者在本网站上发出相关通知，将视为您已收到所有协议、声明、 披露和其它信息。<br>
-家务帮在法律允许最大范围内对本协议拥有解释权与修改权。</span>							</div>
+运动吧将通过电子邮件、短信、在本网站上发布通知或其它服务与用户进行联系。您同意我们用这些方式提供给您的所有协议、通知、披露和其他信息是符合相关的法律法规要求的。如果我们以该等形式向您发出信息或者在本网站上发出相关通知，将视为您已收到所有协议、声明、 披露和其它信息。<br>
+运动吧在法律允许最大范围内对本协议拥有解释权与修改权。</span>							</div>
 													</div>
               </div>
               <!--
@@ -195,7 +195,7 @@
                 <div class="articleDetail">
 &nbsp;
 
-<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">江西家务帮信息科技有限公司（以下统称为"本公司"）对本公司产品及服务内容制定了以下协议（以下统称为"本协议"）。 凡注册成为本公司会员，接受服务之前，都必须理解并接受本协议的全部内容，并遵循本协议之所有约定。</p>
+<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">江西运动吧信息科技有限公司（以下统称为"本公司"）对本公司产品及服务内容制定了以下协议（以下统称为"本协议"）。 凡注册成为本公司会员，接受服务之前，都必须理解并接受本协议的全部内容，并遵循本协议之所有约定。</p>
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial; min-height: 19px;">&nbsp;</p>
 
@@ -227,13 +227,13 @@
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">2）会员在网络办理会员卡申请时，勾选"同意"即表示同意本协议的所有内容。</p>
 
-<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">3）会员可能使用的任何会员帐户、网站资源、信息等任何与家务帮家政服务有关的数据、信息、图像、文字、文件、声音、资源、电子优惠券或其他有形或无形的数据或数据载体均仅为本公司于会员访问家务帮家政时暂借会员使用，会员对于该等数据或数据载体不享有任何处分权利或其他实体权利。同时，本公司享有充分且完整的权利处分该等数据或数据载体。</p>
+<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">3）会员可能使用的任何会员帐户、网站资源、信息等任何与运动吧家政服务有关的数据、信息、图像、文字、文件、声音、资源、电子优惠券或其他有形或无形的数据或数据载体均仅为本公司于会员访问运动吧家政时暂借会员使用，会员对于该等数据或数据载体不享有任何处分权利或其他实体权利。同时，本公司享有充分且完整的权利处分该等数据或数据载体。</p>
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial; min-height: 19px;">&nbsp;</p>
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">5．会员声明</p>
 
-<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">会员自愿以手机短信方式接受来自家务帮的服务资讯和优惠信息。</p>
+<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">会员自愿以手机短信方式接受来自运动吧的服务资讯和优惠信息。</p>
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial; min-height: 19px;">&nbsp;</p>
 
@@ -275,9 +275,9 @@
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">10．帐户和密码的设定、使用、管理</p>
 
-<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">1）为了使用本公司提供的服务，您需要注册一个家务帮帐户，帐户名即为您所提供的常用手机号码。</p>
+<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">1）为了使用本公司提供的服务，您需要注册一个运动吧帐户，帐户名即为您所提供的常用手机号码。</p>
 
-<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">2）通过家务帮下发的验证码进行帐户验证后，该帐户即可以使用。您可以在帐户中查询到您的订单记录，包括为您提供服务的保洁员信息及所提供服务的具体地点记录。</p>
+<p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">2）通过运动吧下发的验证码进行帐户验证后，该帐户即可以使用。您可以在帐户中查询到您的订单记录，包括为您提供服务的保洁员信息及所提供服务的具体地点记录。</p>
 
 <p style="margin: 0px; font-size: 14px; line-height: normal; font-family: 'Microsoft YaHei'; color: rgb(85, 85, 85); -webkit-text-stroke-color: rgb(85, 85, 85); -webkit-text-stroke-width: initial;">3）会员应负责维护您的帐户的保密性并限制第三方使用/访问您的计算机或移动设备，并且，您同意对在您的帐户和密码下发生的所有活动承担责任。</p>
 
@@ -357,17 +357,17 @@
 <br>
 <span style="font-size:14px;">一、关于知识产权保护<br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; "家务帮"受国际版权公约、中华人民共和国著作权法、专利法、及其他知识产权方面的法律法规的保护，其所有知识产权归江西家务帮信息科技有限公司所有和享有。用户需承认</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">拥有对"家务帮"的所有权利，包括但不限于所有知识产权。"知识产权"包括在专利法、版权法、商标法、反不正当竞争法中等法律规定的任何和所有权利、任何和所有其它所有权以及其中的任何和所有应用、更新、扩展和恢复。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 用户不得修改、改编、翻译"家务帮"，或者创作"家务帮"的派生作品，不得通过反向工程、反编译、反汇编或其他类似行为获得"家务帮"源代码，否则由此引起的一切法律后果由用户负责，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">将依法追究违约方的法律责任。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 用户不得恶意修改、复制、传播与"家务帮"相关的材料。如果用户复制和修改传播这些材料，因此而造成对其他人的损害，或者造成对</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">形象损害，要承担相应的法律责任。用户不得删除、掩盖或更改</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">的版权声明、商标或其它权利声明。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; "运动吧"受国际版权公约、中华人民共和国著作权法、专利法、及其他知识产权方面的法律法规的保护，其所有知识产权归江西运动吧信息科技有限公司所有和享有。用户需承认</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">拥有对"运动吧"的所有权利，包括但不限于所有知识产权。"知识产权"包括在专利法、版权法、商标法、反不正当竞争法中等法律规定的任何和所有权利、任何和所有其它所有权以及其中的任何和所有应用、更新、扩展和恢复。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 用户不得修改、改编、翻译"运动吧"，或者创作"运动吧"的派生作品，不得通过反向工程、反编译、反汇编或其他类似行为获得"运动吧"源代码，否则由此引起的一切法律后果由用户负责，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">将依法追究违约方的法律责任。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 用户不得恶意修改、复制、传播与"运动吧"相关的材料。如果用户复制和修改传播这些材料，因此而造成对其他人的损害，或者造成对</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">形象损害，要承担相应的法律责任。用户不得删除、掩盖或更改</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">的版权声明、商标或其它权利声明。<br>
 <br>
 二、义务和责任限制<br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">免费授权用户非商业性使用"家务帮"系列产品，并为用户提供升级更新和提供有关网络服务。这意味着用户可以自主选择免费使用或停止使用"家务帮"，及免费使用</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">提供的有关网络服务。用户可以非商业性地复制和散发"家务帮"。但是如果要进行商业性的销售、复制、散发或其他商业活动，例如预装和捆绑，必须事先获得</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">的书面授权和许可。另外，用户在使用"家务帮"时，不得损害、妨碍、影响、禁用"家务帮"的网络服务，也不得影响任何其它方享用"家务帮"的网络服务，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此产生的后果均由用户自己承担，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">对用户不承担任何责任。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 用户理解并同意自主选择免费下载和使用"家务帮"，风险自负，包括但不限于用户使用"家务帮"过程中的行为，以及因使用"家务帮"而产生的一切后果。如因下载或使用"家务帮"而对计算机系统造成的损坏或数据的丢失，用户须自行承担全部责任。在法律允许的最大限度内，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">明确表示不做出任何明示、暗示和强制的担保，包括但不限于适销性、针对特定用途的适用性以及不侵犯所有权的担保。</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">不做出任何与"家务帮"的安全性、可靠性、及时性和性能有关的担保。江西五毫克信息技术有限公司有权在任何时候，暂时或永久地变更、中断或终止"家务帮"或其中任何一部分。</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">对本服务的变更、中断或终止，对用户和任何第三人均不承担任何责任。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 用户可以向</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">提出咨询和获得"家务帮"相关的合理技术支持，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西家务帮信息科技有限公司</span><span style="font-size:14px;">的此项义务不应超过江西家务帮信息科技有限公司的合理承受限度。如果用户对"家务帮"有任何意见，或有如何改进的建议，请使用"用户反馈"功能发表您的意见或建议。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 特别提示："家务帮"作为信息中介为保洁阿姨登记和公示身份信息，并为保洁委托方和保洁阿姨提供服务供需信息的匹配，对双方在保洁过程中已产生或可能产生纠纷或损害不承担任何责任。如保洁委托方和保洁阿姨对此有不同意见，可以拒绝使用。但只要用户确认本条款，即表明用户已经完整准确地了解了本协议所有约定，并同意接受本协议的全部条款。<br>
-&nbsp; &nbsp; &nbsp; &nbsp; 保洁阿姨必须在"家务帮"登记和公示真实有效的身份证等信息；保洁委托方有权审核保洁阿姨合法有效的身份证明。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; </span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">免费授权用户非商业性使用"运动吧"系列产品，并为用户提供升级更新和提供有关网络服务。这意味着用户可以自主选择免费使用或停止使用"运动吧"，及免费使用</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">提供的有关网络服务。用户可以非商业性地复制和散发"运动吧"。但是如果要进行商业性的销售、复制、散发或其他商业活动，例如预装和捆绑，必须事先获得</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">的书面授权和许可。另外，用户在使用"运动吧"时，不得损害、妨碍、影响、禁用"运动吧"的网络服务，也不得影响任何其它方享用"运动吧"的网络服务，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此产生的后果均由用户自己承担，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">对用户不承担任何责任。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 用户理解并同意自主选择免费下载和使用"运动吧"，风险自负，包括但不限于用户使用"运动吧"过程中的行为，以及因使用"运动吧"而产生的一切后果。如因下载或使用"运动吧"而对计算机系统造成的损坏或数据的丢失，用户须自行承担全部责任。在法律允许的最大限度内，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">明确表示不做出任何明示、暗示和强制的担保，包括但不限于适销性、针对特定用途的适用性以及不侵犯所有权的担保。</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">不做出任何与"运动吧"的安全性、可靠性、及时性和性能有关的担保。江西五毫克信息技术有限公司有权在任何时候，暂时或永久地变更、中断或终止"运动吧"或其中任何一部分。</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">对本服务的变更、中断或终止，对用户和任何第三人均不承担任何责任。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 用户可以向</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">提出咨询和获得"运动吧"相关的合理技术支持，</span><span style="font-size: 14px; line-height: 20.7999992370605px;">江西运动吧信息科技有限公司</span><span style="font-size:14px;">的此项义务不应超过江西运动吧信息科技有限公司的合理承受限度。如果用户对"运动吧"有任何意见，或有如何改进的建议，请使用"用户反馈"功能发表您的意见或建议。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 特别提示："运动吧"作为信息中介为保洁阿姨登记和公示身份信息，并为保洁委托方和保洁阿姨提供服务供需信息的匹配，对双方在保洁过程中已产生或可能产生纠纷或损害不承担任何责任。如保洁委托方和保洁阿姨对此有不同意见，可以拒绝使用。但只要用户确认本条款，即表明用户已经完整准确地了解了本协议所有约定，并同意接受本协议的全部条款。<br>
+&nbsp; &nbsp; &nbsp; &nbsp; 保洁阿姨必须在"运动吧"登记和公示真实有效的身份证等信息；保洁委托方有权审核保洁阿姨合法有效的身份证明。<br>
 &nbsp; &nbsp; &nbsp; &nbsp; 服务开始前，保洁委托方应配合保洁阿姨了解房型、卫生状况、隐私物品等信息，在不影响正常服务的前提下，有权在服务过程中提示保洁阿姨的不当操作。<br>
 &nbsp; &nbsp; &nbsp; &nbsp; 以优质服务为前提，在服务开始前和行进中，保洁阿姨有权要求保洁委托方指示应该清理的地点及注意事项，保洁委托方对保洁阿姨的指示要求，应作出正确的回应与配合。<br>
 &nbsp; &nbsp; &nbsp; &nbsp; 保洁阿姨必须严格遵守劳动法相关法律法规，保洁委托方有权监督保洁阿姨的服务过程，如果保洁阿姨出现明显违反劳动法法规的行为，保洁委托方有权中止本次服务。<br>

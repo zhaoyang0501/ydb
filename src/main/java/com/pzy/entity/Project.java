@@ -33,6 +33,15 @@ public class Project {
 	
 	private String name;
 	
+	private Integer num;
+	public Integer getNum() {
+		return num;
+	}
+
+	public void setNum(Integer num) {
+		this.num = num;
+	}
+
 	public Double getPrice() {
 		return price;
 	}

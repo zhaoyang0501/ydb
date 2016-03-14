@@ -60,6 +60,7 @@
 											<th >地址</th>
 											<th >邮件</th>
 											<th >学校/单位</th>
+											<th >年龄</th>
 											<th >加入日期</th>
 											<th >操作</th>
 										</tr>
@@ -133,7 +134,12 @@
 									<input type="text" name='grade' id=grade placeholder="">
 								</div>
 							</div>
-							
+							<div class="control-group">
+								<label for="title" class="control-label">年龄：</label>
+								<div class="controls">
+									<input type="text" name='age' id=age placeholder="">
+								</div>
+							</div>
 						</form>
 					</div>
 				</div>

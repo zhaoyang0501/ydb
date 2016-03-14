@@ -39,7 +39,7 @@
 					<div class="span12">
 						<div class="content-widgets ">
 							<div class="widget-head  bondi-blue" >
-								<h3>保洁产品管理</h3>
+								<h3>运动产品管理</h3>
 							</div>
 							<div class="box well form-inline">
 								<span>名称：</span>

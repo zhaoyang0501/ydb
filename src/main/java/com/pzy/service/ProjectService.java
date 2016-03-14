@@ -18,6 +18,7 @@ import org.springframework.stereotype.Service;
 
 import com.pzy.entity.Category;
 import com.pzy.entity.Project;
+import com.pzy.entity.User;
 import com.pzy.repository.ProjectRepository;
 /***
  * 
@@ -93,16 +94,29 @@ public class ProjectService {
 		public void save(Project project){
 			projectRepository.save(project);
 		}
-		public List<Project> findBycategory(final Long id){
+		public List<Project> findBycategory(final Long id,final String key){
 	         Specification<Project> spec = new Specification<Project>() {
 	              public Predicate toPredicate(Root<Project> root, CriteriaQuery<?> query, CriteriaBuilder cb) {
 	              Predicate predicate = cb.conjunction();
 	              if (id != null) {
 	                   predicate.getExpressions().add(cb.equal(root.get("category").get("id").as(Long.class), id));
 	              }
+	              if (key != null) {
+	                   predicate.getExpressions().add(cb.like(root.get("name").as(String.class), "%"+key+"%"));
+	              }
 	              return predicate;
 	              }
 	         };
 	         return  projectRepository.findAll(spec);
+	    }
+		public List<Project> findLikes(User user ){
+	         Specification<Project> spec = new Specification<Project>() {
+	              public Predicate toPredicate(Root<Project> root, CriteriaQuery<?> query, CriteriaBuilder cb) {
+	              Predicate predicate = cb.conjunction();
+	              return predicate;
+	           }
+	         };
+	         List list= projectRepository.findAll(spec);
+	         return  list.size()>3?list.subList(0, 3):list;
 	    }
 }

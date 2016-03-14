@@ -171,13 +171,15 @@ public class FrontController {
 	 * @return
 	 */
 	@RequestMapping("project")
-	public String project(Model model,String key,Long cid) {
+	public String project(Model model,String key,Long cid,HttpSession httpSession) {
 		model.addAttribute("cagegorys", categoryService.findAll());
+		User user=(User)httpSession.getAttribute("user");
 		Category category=null;
 		if(cid!=null)
 			category=categoryService.find(cid);
-		List<Project> list= projectService.findBycategory(cid);
+		List<Project> list= projectService.findBycategory(cid,key);
 		model.addAttribute("projects",list);
+		model.addAttribute("likes",projectService.findLikes(user));
 		model.addAttribute("category",category);
 		return "project";
 	}
@@ -212,8 +214,9 @@ public class FrontController {
 		order.setState("待审核");
 		order.setProject(bean);
 		order.setUser(user);
+		
 		order.setPrice(bean.getPrice());
-		order.setToalprice(bean.getPrice()*Long.valueOf(order.getOrderTime()));
+		order.setToalprice(bean.getPrice());
 		orderService.save(order);
 		model.addAttribute("bean",bean);
 		model.addAttribute("tip","订单提交成功等待处理");

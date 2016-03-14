@@ -83,6 +83,7 @@
                   <p><label for="rt1-country">密码*</label><input type="text"  name='password'></p>
                   <p><label for="rt1-email">电子邮箱*</label><input type="text"  name='email'></p>
                     <p><label for="rt1-fax">电话</label><input type="text"  name='tel'></p>
+                  <p><label for="rt1-fax">年龄</label><input type="text"  name='age'></p>
                
                   <p><label for="rt1-fax">学校或者单位</label><input type="text"  name='grade'></p>
                   <p><label for="rt1-fax">地址</label><input type="text"  name='address'></p>

@@ -156,8 +156,8 @@
               <aside class="envor-widget envor-search-widget">
                 <h3 style="margin-top: 0px;"><strong>查找</strong> </h3>
                 <div class="envor-widget-inner">
-                  <form>
-                    <input type="text" name="s" placeholder="type to search...">
+                  <form action="project" method="post">
+                    <input type="text" name="key" placeholder="输入关键字查找...">
                   </form>
                 </div>
               </aside>
@@ -178,37 +178,14 @@
                 <div class="envor-tabs">
                   <header>
                     <span class="active"><i class="fa fa-calendar"></i><div class="arrow"></div></span>
-                    <span><i class="fa fa-star"></i><div class="arrow"></div></span>
-                    <span><i class="fa fa-comment"></i><div class="arrow"></div></span>
                   </header>
                   <article style="display: block;">
-                    <!--
-
-                    Sidebar Post Item
-
-                    //-->
+                  <c:forEach items="${likes }" var="bean">
                     <div class="envor-sidebar-post">
                       <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">五道口跆拳道馆</a></p>
+                      <p class="title"><a href="viewproject?id=${bean.id }">${bean.name }</a></p>
                     </div>
-                    <!--
-
-                    Sidebar Post Item
-                    
-                    //-->
-                    <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">XX篮球馆</a></p>
-                    </div>
-                    <!--
-
-                    Sidebar Post Item
-                    
-                    //-->
-                    <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">天天羽毛球馆</a></p>
-                    </div>
+                  </c:forEach>
                   </article>
                 </div>
               </div>

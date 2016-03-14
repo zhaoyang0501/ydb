@@ -64,7 +64,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="envor-desktop-breadscrubs-inner">
-                <a href="index.html">首页</a><i class="fa fa-angle-double-right"></i>家务预约
+                <a href="index.html">首页</a><i class="fa fa-angle-double-right"></i>全部分类
               </div>
             </div>
           </div>
@@ -137,11 +137,9 @@
                   <p class="price">￥${bean.price }</p>
                     <form class="envor-f1" action="submitorder" method="post">
                     <input type="hidden"  name='pid' value='${bean.id }'>
-                    <p><label for="rt1-fax">服务时间</label><input type="text"  name='orderTime'></p>
                  <p><label for="rt1-fax">预约日期</label><input type="text"  id='orderDate' name='orderDate'></p>
-               
                   <p><label for="rt1-fax">备注</label><input type="text"  name='remark'></p>
-                  <p><label for="rt1-fax">服务地址</label><input type="text"  name='addr'></p>
+                  <p><label for="rt1-fax">客户联系地址</label><input type="text"  name='addr'></p>
                   <p><input type="submit" value="提交订单" class="envor-btn envor-btn-normal envor-btn-primary"></p>
                 </form>
                    </div>
