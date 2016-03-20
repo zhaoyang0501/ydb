@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.pzy.entity.Order;
 import com.pzy.service.OrderService;
-/***课程管理
+/***订单管理
  * @author panchaoyang
  *qq 263608237
  */

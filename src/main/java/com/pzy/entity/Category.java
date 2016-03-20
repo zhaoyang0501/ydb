@@ -13,7 +13,7 @@ import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 /***
- *  *对应数据库-- 课表实体
+ *  *对应数据库-- 分类
  * @author Administrator
  *
  */

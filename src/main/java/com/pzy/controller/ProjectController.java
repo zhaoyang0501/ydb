@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.pzy.entity.Project;
 import com.pzy.service.CategoryService;
 import com.pzy.service.ProjectService;
-/***发布公告到首页
+/***产品管理
  * @author panchaoyang
  * qq:263608237
  */

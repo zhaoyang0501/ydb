@@ -2,6 +2,9 @@ package com.pzy.entity;
 import java.util.Date;
 
 
+
+
+import javax.persistence.Column;
 /***
  * 分类
  *
@@ -11,11 +14,12 @@ import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-/**
+/**订单实体
  * @author Administrator
  *
  */
@@ -36,6 +40,7 @@ public class Order {
 	private String remark;
 	
 	@ManyToOne(fetch = FetchType.EAGER)
+	@JoinColumn(name="_user") 
 	private User user;
 	
 	@JsonFormat(pattern = "yyyy-MM-dd", timezone = "GMT+08:00")
