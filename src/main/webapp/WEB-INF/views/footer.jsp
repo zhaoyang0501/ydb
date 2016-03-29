@@ -70,15 +70,15 @@
               <div class="envor-widget-inner">
                 <p>
                   <i class="fa fa-map-marker"></i>
-                  121 King Street, Melbourne  Victoria 3000, Australia
+                 北京市海淀区北京信息科技大学
                 </p>
                 <p>
                   <i class="fa fa-phone"></i>
-                  731-509-5843
+                 13552957989
                 </p>
                 <p>
                   <i class="fa fa-envelope"></i>
-                  <a href="">263608237@qq.com</a>
+                  <a href="">625618168@qq.com</a>
                 </p>
               </div>
             </div>

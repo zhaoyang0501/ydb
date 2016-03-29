@@ -111,8 +111,98 @@
                 <h2 style="margin-top: 0px;">关于我们 <strong></strong></h2>
                 <div class="row" style="margin-top: 60px;">
                   <div>
-                  <p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 24px;"><span class="s1">关于运动吧</span></span><br><br><span style="font-size: 14px;"><span style="line-height: 1.6em;">我们不是小时工，杜绝磨洋工，按户型标准化收费。</span><br><span style="line-height: 1.6em;">我们是一家移动互联网创业公司，我们是一支拥有丰富的互联网行业经验的创业团队，将</span><span style="line-height: 25.6px;">重新定义家庭清洁与卫生新观念</span><span style="line-height: 1.6em;">。我们崇尚自由、不拘小节，我们关注用户、追求极致，我们充满激情、快速迭代，致力于为用户提供优质的用户体验。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">1、运动吧的特色服务</span></span><br><span style="line-height: 1.6em;">我们引进德国进口高温蒸汽杀菌、除尘除螨等高端专业设备。细心体贴的阿姨/技师将为您提供【日常保洁】、【深度保洁】、【除尘除螨】、【家电清洗】、【管道疏通】等高品质的省心到家服务。我们的预约时间为：早8：00-晚18：00。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">2、运动吧的平台优势</span></span><br><span style="line-height: 1.6em;">我们的平台优势在于已全面开通网站在线支付、微信在线支付、预约电话（4009-954-580）等全方位预约功能，强大的系统匹配阿姨能力，将为您找到细心体贴的阿姨，解决您的后顾之忧。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">3、运动吧的阿姨管理</span></span><br><span style="line-height: 1.6em;">我们的阿姨都经过非常严格的实名认证、背景调查、资料备案。面试环节层层筛选，保洁员10%择优录取。运动吧拥有强大的家政培训队伍，确保家政员的服务技能、服务态度、服务礼仪的高标准。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">4、运动吧的会员服务</span></span><br><span style="line-height: 1.6em;">加入运动吧会员，您还享受专属的家庭管家1对1服务，更有优先安排、更换阿姨、福利赠送等各种特权。</span><br><br><span style="color: rgb(165, 42, 42);"><span style="line-height: 1.6em;">5、运动吧的团队环境</span></span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 扁平的团队管理结构，谁都可以表达自己的看法；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 开放的产品讨论，人人都可以是产品经理；</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">·&nbsp; 轻松愉快的工作环境，高效、健康的沟通协作方式。</span><br><br><span style="line-height: 1.6em;"><span style="color: rgb(165, 42, 42);">6、国家的政策扶持</span></span><br><span style="line-height: 1.6em;">我们积极响应李克强总理在政府工作报告中的号召，助力“互联网+”宏观战略。所谓O2O是“Online to Offline”和“Offline to Online”的缩写，强调的是线上和线下的融合与联动。</span></span></p><p class="p2" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><br><span class="s1"><span style="font-size: 22px;">关于我们&nbsp;</span></span><br>&nbsp;</p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服热线：4009-954-580</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">投诉电话：0791-83807986&nbsp; &nbsp; &nbsp; &nbsp;</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">微信服务号：jiawubang5</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">客服邮箱：kefu@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">市场合作：zhouxiaoping@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">商务合作：caimaodong@jiawubang.me</span></span></p><p class="p1" style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);"><span style="font-size: 14px;"><span class="s1">公司地址：江西省南昌市 红谷滩新区 沙井街道怡园路899号名门世家</span></span><br>&nbsp;</p><p><img alt="" src="http://www.jiawubang.me/Uploads/Editor/images/20150531204807367d8046.png" style="border: 0px; vertical-align: middle; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; width: 728px; height: 260px; background-color: rgb(255, 255, 255);"></p><p><br></p>
-                  </div>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 24px;"><span class="s1">关于运动吧</span></span><br>
+										<br>
+										<span style="font-size: 14px;"><span
+											style="line-height: 1.6em;">我们不是小时工，杜绝磨洋工，按户型标准化收费。</span><br>
+										<span style="line-height: 1.6em;">我们是一家移动互联网创业公司，我们是一支拥有丰富的互联网行业经验的创业团队，将</span><span
+											style="line-height: 25.6px;">重新定义家庭清洁与卫生新观念</span><span
+											style="line-height: 1.6em;">。我们崇尚自由、不拘小节，我们关注用户、追求极致，我们充满激情、快速迭代，致力于为用户提供优质的用户体验。</span><br>
+										<br>
+										<span style="line-height: 1.6em;"><span
+												style="color: rgb(165, 42, 42);">1、运动吧的特色服务</span></span><br>
+										<span style="line-height: 1.6em;">我们引进德国进口高温蒸汽杀菌、除尘除螨等高端专业设备。细心体贴的阿姨/技师将为您提供【日常保洁】、【深度保洁】、【除尘除螨】、【家电清洗】、【管道疏通】等高品质的省心到家服务。我们的预约时间为：早8：00-晚18：00。</span><br>
+										<br>
+										<span style="line-height: 1.6em;"><span
+												style="color: rgb(165, 42, 42);">2、运动吧的平台优势</span></span><br>
+										<span style="line-height: 1.6em;">我们的平台优势在于已全面开通网站在线支付、微信在线支付、预约电话（4009-954-580）等全方位预约功能，强大的系统匹配阿姨能力，将为您找到细心体贴的阿姨，解决您的后顾之忧。</span><br>
+										<br>
+										<span style="line-height: 1.6em;"><span
+												style="color: rgb(165, 42, 42);">3、运动吧的阿姨管理</span></span><br>
+										<span style="line-height: 1.6em;">我们的阿姨都经过非常严格的实名认证、背景调查、资料备案。面试环节层层筛选，保洁员10%择优录取。运动吧拥有强大的家政培训队伍，确保家政员的服务技能、服务态度、服务礼仪的高标准。</span><br>
+										<br>
+										<span style="line-height: 1.6em;"><span
+												style="color: rgb(165, 42, 42);">4、运动吧的会员服务</span></span><br>
+										<span style="line-height: 1.6em;">加入运动吧会员，您还享受专属的家庭管家1对1服务，更有优先安排、更换阿姨、福利赠送等各种特权。</span><br>
+										<br>
+										<span style="color: rgb(165, 42, 42);"><span
+												style="line-height: 1.6em;">5、运动吧的团队环境</span></span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">·&nbsp;
+												扁平的团队管理结构，谁都可以表达自己的看法；</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">·&nbsp;
+												开放的产品讨论，人人都可以是产品经理；</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">·&nbsp;
+												轻松愉快的工作环境，高效、健康的沟通协作方式。</span><br>
+										<br>
+										<span style="line-height: 1.6em;"><span
+												style="color: rgb(165, 42, 42);">6、国家的政策扶持</span></span><br>
+										<span style="line-height: 1.6em;">我们积极响应李克强总理在政府工作报告中的号召，助力“互联网+”宏观战略。所谓O2O是“Online
+												to Offline”和“Offline to Online”的缩写，强调的是线上和线下的融合与联动。</span></span>
+									</p>
+									<p class="p2"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<br>
+										<span class="s1"><span style="font-size: 22px;">关于我们&nbsp;</span></span><br>&nbsp;
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">客服热线：13552957989</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">投诉电话：0791-83807986&nbsp;
+												&nbsp; &nbsp; &nbsp;</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">微信服务号：YXC19940620</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">客服邮箱：625618168@qq.com</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">市场合作：625618168@qq.com</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">商务合作：c625618168@qq.com</span></span>
+									</p>
+									<p class="p1"
+										style="padding: 0px; margin-top: 0px; margin-bottom: 0px; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">
+										<span style="font-size: 14px;"><span class="s1">北京市海淀区清河小营东路12号</span></span><br>&nbsp;
+									</p>
+									<p>
+										<img alt=""
+											src="http://www.jiawubang.me/Uploads/Editor/images/20150531204807367d8046.png"
+											style="border: 0px; vertical-align: middle; color: rgb(85, 85, 85); font-family: 'Microsoft YaHei', 微软雅黑, Lucida, Verdana, 'Hiragino Sans GB', STHeiti, 'WenQuanYi Micro Hei', 'Droid Sans Fallback', SimSun, sans-serif; line-height: 32px; white-space: normal; width: 728px; height: 260px; background-color: rgb(255, 255, 255);">
+									</p>
+									<p>
+										<br>
+									</p>
+								</div>
                 </div>
               </div>
               <!--

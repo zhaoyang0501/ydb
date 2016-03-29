@@ -7,7 +7,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import com.pzy.entity.Seller;
 import com.pzy.entity.User;
+import com.pzy.service.SellerService;
 import com.pzy.service.UserService;
 /***
  * 后台首页，处理后台登录验证权限等操作
@@ -20,6 +22,10 @@ public class IndexController {
 	
 	@Autowired
 	private UserService userService;
+	
+	@Autowired
+	private SellerService sellerService;
+	
 	
 	@RequestMapping("center/index")
 	public String center() {
@@ -76,7 +82,7 @@ public class IndexController {
 	}
 	@RequestMapping("gologin")
 	public String gologin(HttpSession httpSession,String userName,String password,Model model)  {
-		User user=userService.login(userName, password);
+		Seller user=sellerService.login(userName, password);
 		model.addAttribute("usernum",userService.findAll().size());
 		model.addAttribute("num1",0);
     	if("admin".equals(userName)&&"123456".equals(password)){
@@ -84,14 +90,6 @@ public class IndexController {
     		admin.setUsername("admin");
     		admin.setPassword("123456");
     		admin.setName("超级管理员");
-    		httpSession.setAttribute("adminuser", admin);
-    		return "admin/index";
-    	}
-    	if("work".equals(userName)&&"123456qwe".equals(password)){
-    		User admin=new User();  
-    		admin.setUsername("work");
-    		admin.setPassword("123456");
-    		admin.setName("企业账号");
     		httpSession.setAttribute("adminuser", admin);
     		return "admin/index";
     	}
